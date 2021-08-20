@@ -3,7 +3,7 @@
   "private": true,
   "description": "A Gatsby Typescript starter site",
   "version": "0.1.0",
-  "author": "Noah Matsell <noahmatsell@gmail.com>",
+  "author": "Finn <cheytac406@gmail.com>",
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
