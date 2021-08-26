@@ -8,7 +8,6 @@ module.exports = {
 		'airbnb',
 		'airbnb/hooks',
 		'eslint:recommended',
-		'prettier/@typescript-eslint',
 		'plugin:react/recommended',
 		'plugin:@typescript-eslint/recommended',
 		'plugin:prettier/recommended',
@@ -97,4 +96,4 @@ module.exports = {
 		'import/extensions': ['.js', '.ts', '.mjs', '.jsx', '.tsx'],
 	},
 	ignorePatterns: ['node_modules/', '*.js'],
-}
+};
