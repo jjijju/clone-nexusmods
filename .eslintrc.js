@@ -6,7 +6,7 @@ module.exports = {
 	},
 	extends: [
 		'airbnb',
-		'airbnb/hooks',
+		'airbnb-typescript',
 		'eslint:recommended',
 		'plugin:react/recommended',
 		'plugin:@typescript-eslint/recommended',
