@@ -7,6 +7,9 @@
   "dependencies": {
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
+    "@fontsource/montserrat": "^4.5.1",
+    "@fontsource/open-sans": "^4.5.0",
+    "@fontsource/roboto": "^4.5.0",
     "@types/node": "^16.6.1",
     "@types/react": "^17.0.18",
     "@types/react-dom": "^17.0.9",
